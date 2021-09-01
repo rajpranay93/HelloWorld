@@ -1,0 +1,13 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 1961-9D00
+
+ Directory of D:\Jenkins CLI
+
+01-09-2021  10:15    <DIR>          .
+01-09-2021  10:15    <DIR>          ..
+18-08-2021  12:21             1,031 A.class
+02-05-2021  17:17               364 A.java
+31-08-2021  17:04         3,504,101 jenkins-cli.jar
+01-09-2021  10:15                 0 read.txt
+               4 File(s)      3,505,496 bytes
+               2 Dir(s)  59,109,527,552 bytes free
